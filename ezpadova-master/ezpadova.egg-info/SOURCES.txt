@@ -1,0 +1,11 @@
+README.md
+setup.py
+ezpadova/__init__.py
+ezpadova/cmd.py
+ezpadova/parsec.py
+ezpadova/simpletable.py
+ezpadova.egg-info/PKG-INFO
+ezpadova.egg-info/SOURCES.txt
+ezpadova.egg-info/dependency_links.txt
+ezpadova.egg-info/not-zip-safe
+ezpadova.egg-info/top_level.txt
